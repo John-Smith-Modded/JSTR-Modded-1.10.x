@@ -1,0 +1,10 @@
+{
+  "mod_id": "Railcraft",
+  "mod_name": "Railcraft",
+  "mod_dir": "/Railcraft/",
+  "mod_version": "v10.0.1",
+  "mc_version": "1.10.2",
+  "mod_authors": ["CovertJaguar"],
+  "url_website": "http://www.railcraft.info/",
+  "description": "Redefine your rails."
+}
