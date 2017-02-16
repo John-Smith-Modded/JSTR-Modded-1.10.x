@@ -1,0 +1,10 @@
+{
+  "mod_id": "forge",
+  "mod_name": "Forge",
+  "mod_dir": "/Forge/",
+  "mod_version": "v12.18.3",
+  "mc_version": "1.10.2",
+  "mod_authors": ["Forge Development LLC"],
+  "url_website": "http://files.minecraftforge.net/",
+  "description": "Minecraft Forge is a Minecraft API"
+}
