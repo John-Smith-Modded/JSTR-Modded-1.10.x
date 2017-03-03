@@ -1,0 +1,40 @@
+{
+    "textures": {
+        "particle": "quark:blocks/bed/head_top_color",
+        "bottom": "minecraft:blocks/bed_head_bottom",
+        "top": "quark:blocks/bed/head_top",
+        "end": "quark:blocks/bed/head_end",
+        "side": "quark:blocks/bed/head_side",
+        "top_c": "quark:blocks/bed/head_top_color",
+        "end_c": "quark:blocks/bed/head_end_color",
+        "side_c": "quark:blocks/bed/head_side_color"
+    },
+    "elements": [
+        {   
+            "from": [ 0, 0, 0 ],
+            "to": [ 16, 9, 16 ],
+            "faces": {
+                "up":    { "uv": [  0, 16, 16,  0 ], "texture": "#top", "rotation": 90 },
+                "south": { "uv": [  0,  7, 16, 16 ], "texture": "#end" },
+                "west":  { "uv": [  0,  7, 16, 16 ], "texture": "#side" },
+                "east":  { "uv": [ 16,  7,  0, 16 ], "texture": "#side" }
+            }
+        },
+        {   
+            "from": [ 0, 0, 0 ],
+            "to": [ 16, 9, 16 ],
+            "faces": {
+                "up":    { "uv": [  0, 16, 16,  0 ], "texture": "#top_c", "tintindex": 0, "rotation": 90 },
+                "south": { "uv": [  0,  7, 16, 16 ], "texture": "#end_c", "tintindex": 0 },
+                "west":  { "uv": [  0,  7, 16, 16 ], "texture": "#side_c", "tintindex": 0 },
+                "east":  { "uv": [ 16,  7,  0, 16 ], "texture": "#side_c", "tintindex": 0 }
+            }
+        },
+        {   "from": [ 0, 3, 0 ],
+            "to": [ 16, 3, 16 ],
+            "faces": {
+                "down":  { "uv": [ 0, 0, 16, 16 ], "texture": "#bottom" }
+            }
+        }
+    ]
+}
