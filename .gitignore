@@ -71,5 +71,5 @@ Temporary Items
 # Misc
 ########################
 
-# Photoshop
-*.psd
+# Allow artist an optional hidden work folder (.work/) in each folder
+.work/*
