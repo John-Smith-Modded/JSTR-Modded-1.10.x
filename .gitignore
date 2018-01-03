@@ -72,4 +72,4 @@ Temporary Items
 ########################
 
 # Allow artist an optional hidden work folder (.work/) in each folder
-.work/*
+.work/
