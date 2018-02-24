@@ -1,0 +1,10 @@
+{
+  "mod_id": "Techreborn",
+  "mod_name": "Tech Reborn",
+  "mod_dir": "/Tech_Reborn/",
+  "mod_version": "2.1.19.240",
+  "mc_version": "1.10.2",
+  "mod_authors": ["modmuss50"],
+  "url_website": "https://techreborn.ovh/",
+  "description": "Gregtech 2 inspired tech mod."
+}
