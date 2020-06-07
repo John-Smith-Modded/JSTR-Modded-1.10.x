@@ -1,0 +1,13 @@
+{
+    "mod_id": "ceramics",
+    "mod_name": "Ceramics",
+    "mod_filename": "Ceramics-1.10.2-1.1.0a.jar",
+    "mc_version": "1.10.2",
+    "mod_authors": [
+        "KnightMiner"
+    ],
+    "url_website": "",
+    "description": "Form clay into tools and armor then harden it using heat",
+    "mod_version": "1.10.2-1.1.0a",
+    "mod_dir": "/Ceramics/"
+}
